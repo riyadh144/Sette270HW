@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "ESP32S3")(type "KiCad")(uri "${KIPRJMOD}/Libraries/xiao ESP32S3_PCB.pretty")(options "")(descr ""))
+  (lib (name "SSD1306")(type "KiCad")(uri "${KIPRJMOD}/Libraries/ssd1306/KiCad-SSD1306-128x64-0.1/library/SSD1306.pretty")(options "")(descr ""))
+)
